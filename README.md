@@ -63,7 +63,7 @@ Real-estate platform built with **Next.js + TypeScript + Supabase + Hono**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=/Harsh-X-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-X-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user/Harsh-X-dev&theme=tokyonight&hide_border=true" height="170"/>
 
