@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # ⚡ HARSH SAINI
 
 ### `Backend • Full-Stack • AI`
